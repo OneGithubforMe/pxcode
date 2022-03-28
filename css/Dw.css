@@ -758,6 +758,13 @@
   height: min-content;
   margin: 5px; }
 
+.dw-section2__block3 {
+  display: flex;
+  flex-direction: column;
+  background: var(--src) center center/cover no-repeat;
+  width: 100%;
+  height: 100%; }
+
 .dw-section3__section3 {
   display: flex;
   flex-direction: column; }
